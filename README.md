@@ -1,6 +1,6 @@
 ### This is a summary of the features of my portfolio which is created from scratch in fulfilment of the Web Design for Everyone capstone project.
 
-You can refer to my portfolio site here.<br>
+You can refer to my portfolio site https://caratancy.github.io/caratancy/ <br>
 My site is VALIDATED - please see the documentation titled 'Validation'.<br>
 My site is RESPONSIVE - there are different layouts for mobile and larger screens.  The wireframes that illustrate the responsiveness can also be found in the documentation titled 'Wireframes'.<br>
 My site is STYLED - it uses what I think is a good color scheme and clear fonts.  The site contains content that most will find relevant and appealing during the recent spade of lockdowns to curb the pandemic situation..<br> 
